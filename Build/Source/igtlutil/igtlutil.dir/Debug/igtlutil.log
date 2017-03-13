@@ -1,0 +1,63 @@
+﻿Build started 2017-03-13 11:08:08.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Source\igtlutil\igtlutil.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "igtlutil.dir\Debug\igtlutil.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Source/igtlutil/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Source\igtlutil\CMakeFiles\generate.stamp is up-to-date.
+       MakeDirsForCl:
+         Creating directory "C:\Users\student\Desktop\pwplab2\build\Source\igtlutil\Debug".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /Zi /nologo /W3 /WX- /MP /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"igtlutil.dir\Debug\\" /Fd"igtlutil.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\..\OpenIGTLink\Source\igtlutil\igtl_header.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_image.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_position.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_transform.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_util.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_capability.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_colortable.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_imgmeta.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_lbmeta.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_point.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_tdata.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_qtdata.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_trajectory.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_unit.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_sensor.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_string.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_ndarray.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_bind.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_qtrans.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_polydata.c ..\..\..\OpenIGTLink\Source\igtlutil\igtl_command.c
+         igtl_header.c
+         igtl_image.c
+         igtl_position.c
+         igtl_transform.c
+         igtl_util.c
+         igtl_capability.c
+         igtl_colortable.c
+         igtl_imgmeta.c
+         igtl_lbmeta.c
+         igtl_point.c
+         igtl_tdata.c
+         igtl_qtdata.c
+         igtl_trajectory.c
+         igtl_unit.c
+         igtl_sensor.c
+         igtl_string.c
+         igtl_ndarray.c
+         igtl_bind.c
+         igtl_qtrans.c
+         igtl_polydata.c
+         igtl_command.c
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\igtlutil.lib" /NOLOGO igtlutil.dir\Debug\igtl_header.obj
+         igtlutil.dir\Debug\igtl_image.obj
+         igtlutil.dir\Debug\igtl_position.obj
+         igtlutil.dir\Debug\igtl_transform.obj
+         igtlutil.dir\Debug\igtl_util.obj
+         igtlutil.dir\Debug\igtl_capability.obj
+         igtlutil.dir\Debug\igtl_colortable.obj
+         igtlutil.dir\Debug\igtl_imgmeta.obj
+         igtlutil.dir\Debug\igtl_lbmeta.obj
+         igtlutil.dir\Debug\igtl_point.obj
+         igtlutil.dir\Debug\igtl_tdata.obj
+         igtlutil.dir\Debug\igtl_qtdata.obj
+         igtlutil.dir\Debug\igtl_trajectory.obj
+         igtlutil.dir\Debug\igtl_unit.obj
+         igtlutil.dir\Debug\igtl_sensor.obj
+         igtlutil.dir\Debug\igtl_string.obj
+         igtlutil.dir\Debug\igtl_ndarray.obj
+         igtlutil.dir\Debug\igtl_bind.obj
+         igtlutil.dir\Debug\igtl_qtrans.obj
+         igtlutil.dir\Debug\igtl_polydata.obj
+         igtlutil.dir\Debug\igtl_command.obj  /machine:X86 
+         igtlutil.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\igtlutil.lib
+       FinalizeBuildStatus:
+         Deleting file "igtlutil.dir\Debug\igtlutil.unsuccessfulbuild".
+         Touching "igtlutil.dir\Debug\igtlutil.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Source\igtlutil\igtlutil.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.20

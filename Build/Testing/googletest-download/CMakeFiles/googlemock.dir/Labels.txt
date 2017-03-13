@@ -1,0 +1,15 @@
+# Target labels
+ googlemock
+# Source files and their labels
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/googlemock
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeLists.txt
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/7475ebe11f82ad3875878fc86298649f/googlemock.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/a4c6ec908b4975caa03901ed99a842c7/googlemock-complete.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-install.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-mkdir.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-download.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-update.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-patch.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-configure.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-build.rule
+C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-test.rule

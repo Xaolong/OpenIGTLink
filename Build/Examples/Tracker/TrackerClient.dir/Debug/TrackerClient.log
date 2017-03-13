@@ -1,0 +1,32 @@
+﻿Build started 2017-03-13 11:09:57.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Examples\Tracker\TrackerClient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "TrackerClient.dir\Debug\TrackerClient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Examples/Tracker/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Examples\Tracker\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"TrackerClient.dir\Debug\\" /Fd"TrackerClient.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\OpenIGTLink\Examples\Tracker\TrackerClient.cxx
+         TrackerClient.cxx
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"TrackerClient.dir\Debug\TrackerClient.exe.embed.manifest.res" TrackerClient.dir\Debug\TrackerClient_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrackerClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"TrackerClient.dir\Debug\TrackerClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.lib" /MACHINE:X86 TrackerClient.dir\Debug\TrackerClient.exe.embed.manifest.res
+         TrackerClient.dir\Debug\TrackerClient.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"TrackerClient.dir\Debug\TrackerClient.exe.embed.manifest" /manifest TrackerClient.dir\Debug\TrackerClient.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"TrackerClient.dir\Debug\TrackerClient.exe.embed.manifest.res" TrackerClient.dir\Debug\TrackerClient_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrackerClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"TrackerClient.dir\Debug\TrackerClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.lib" /MACHINE:X86 TrackerClient.dir\Debug\TrackerClient.exe.embed.manifest.res
+         TrackerClient.dir\Debug\TrackerClient.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerClient.exp
+         TrackerClient.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrackerClient.exe
+       FinalizeBuildStatus:
+         Deleting file "TrackerClient.dir\Debug\TrackerClient.unsuccessfulbuild".
+         Touching "TrackerClient.dir\Debug\TrackerClient.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Examples\Tracker\TrackerClient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.57

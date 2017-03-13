@@ -1,0 +1,32 @@
+﻿Build started 2017-03-13 11:10:02.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Examples\String\StringClient.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "StringClient.dir\Debug\StringClient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Examples/String/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Examples\String\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"StringClient.dir\Debug\\" /Fd"StringClient.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\OpenIGTLink\Examples\String\StringClient.cxx
+         StringClient.cxx
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"StringClient.dir\Debug\StringClient.exe.embed.manifest.res" StringClient.dir\Debug\StringClient_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\StringClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"StringClient.dir\Debug\StringClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.lib" /MACHINE:X86 StringClient.dir\Debug\StringClient.exe.embed.manifest.res
+         StringClient.dir\Debug\StringClient.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"StringClient.dir\Debug\StringClient.exe.embed.manifest" /manifest StringClient.dir\Debug\StringClient.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"StringClient.dir\Debug\StringClient.exe.embed.manifest.res" StringClient.dir\Debug\StringClient_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\StringClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"StringClient.dir\Debug\StringClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.lib" /MACHINE:X86 StringClient.dir\Debug\StringClient.exe.embed.manifest.res
+         StringClient.dir\Debug\StringClient.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/StringClient.exp
+         StringClient.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\StringClient.exe
+       FinalizeBuildStatus:
+         Deleting file "StringClient.dir\Debug\StringClient.unsuccessfulbuild".
+         Touching "StringClient.dir\Debug\StringClient.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Examples\String\StringClient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.51

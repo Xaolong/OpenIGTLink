@@ -1,0 +1,32 @@
+﻿Build started 2017-03-13 11:08:39.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Testing\igtlTrajectoryMessageTest.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Testing/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Testing\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\build\Testing /IC:\Users\student\Desktop\pwplab2\build\Testing\gtest\include /IC:\Users\student\Desktop\pwplab2\build\Testing\gmock\include /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _VARIADIC_MAX=10 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"igtlTrajectoryMessageTest.dir\Debug\\" /Fd"igtlTrajectoryMessageTest.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\OpenIGTLink\Testing\igtlTrajectoryMessageTest.cxx
+         igtlTrajectoryMessageTest.cxx
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.embed.manifest.res" igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\igtlTrajectoryMessageTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:/Users/student/Desktop/pwplab2/build/bin /LIBPATH:C:/Users/student/Desktop/pwplab2/build/bin/Debug kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\bin\Debug\OpenIGTLink.lib ..\bin\Debug\gtest_main.lib ..\bin\Debug\gtest.lib ..\bin\Debug\gmock_main.lib ..\bin\Debug\gmock.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.lib" /MACHINE:X86 igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.embed.manifest.res
+         igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.embed.manifest" /manifest igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.embed.manifest.res" igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\igtlTrajectoryMessageTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:/Users/student/Desktop/pwplab2/build/bin /LIBPATH:C:/Users/student/Desktop/pwplab2/build/bin/Debug kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\bin\Debug\OpenIGTLink.lib ..\bin\Debug\gtest_main.lib ..\bin\Debug\gtest.lib ..\bin\Debug\gmock_main.lib ..\bin\Debug\gmock.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.lib" /MACHINE:X86 igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.exe.embed.manifest.res
+         igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/igtlTrajectoryMessageTest.exp
+         igtlTrajectoryMessageTest.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\igtlTrajectoryMessageTest.exe
+       FinalizeBuildStatus:
+         Deleting file "igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.unsuccessfulbuild".
+         Touching "igtlTrajectoryMessageTest.dir\Debug\igtlTrajectoryMessageTest.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Testing\igtlTrajectoryMessageTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.28

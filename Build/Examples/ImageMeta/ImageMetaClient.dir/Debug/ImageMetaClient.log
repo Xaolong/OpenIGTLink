@@ -1,0 +1,32 @@
+﻿Build started 2017-03-13 11:10:52.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Examples\ImageMeta\ImageMetaClient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "ImageMetaClient.dir\Debug\ImageMetaClient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Examples/ImageMeta/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Examples\ImageMeta\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"ImageMetaClient.dir\Debug\\" /Fd"ImageMetaClient.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\OpenIGTLink\Examples\ImageMeta\ImageMetaClient.cxx
+         ImageMetaClient.cxx
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"ImageMetaClient.dir\Debug\ImageMetaClient.exe.embed.manifest.res" ImageMetaClient.dir\Debug\ImageMetaClient_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\ImageMetaClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"ImageMetaClient.dir\Debug\ImageMetaClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.lib" /MACHINE:X86 ImageMetaClient.dir\Debug\ImageMetaClient.exe.embed.manifest.res
+         ImageMetaClient.dir\Debug\ImageMetaClient.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"ImageMetaClient.dir\Debug\ImageMetaClient.exe.embed.manifest" /manifest ImageMetaClient.dir\Debug\ImageMetaClient.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"ImageMetaClient.dir\Debug\ImageMetaClient.exe.embed.manifest.res" ImageMetaClient.dir\Debug\ImageMetaClient_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\ImageMetaClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"ImageMetaClient.dir\Debug\ImageMetaClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.lib" /MACHINE:X86 ImageMetaClient.dir\Debug\ImageMetaClient.exe.embed.manifest.res
+         ImageMetaClient.dir\Debug\ImageMetaClient.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/ImageMetaClient.exp
+         ImageMetaClient.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\ImageMetaClient.exe
+       FinalizeBuildStatus:
+         Deleting file "ImageMetaClient.dir\Debug\ImageMetaClient.unsuccessfulbuild".
+         Touching "ImageMetaClient.dir\Debug\ImageMetaClient.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Examples\ImageMeta\ImageMetaClient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.62

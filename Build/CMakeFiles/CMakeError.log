@@ -1,0 +1,364 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_2f568.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:04:41.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_2f568.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_2f568.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_2f568.dir\Debug\cmTC_2f568.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_2f568.dir\Debug\\" /Fd"cmTC_2f568.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckIncludeFile.c
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_2f568.dir\Debug\\" /Fd"cmTC_2f568.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_2f568.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_2f568.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_2f568.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy ClCompile) -> 
+  CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_2f568.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 1
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:00.24
+
+
+Determining if the function getsockname exists in the socket failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_82361.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:04:42.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_82361.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_82361.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_82361.dir\Debug\cmTC_82361.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=getsockname /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_82361.dir\Debug\\" /Fd"cmTC_82361.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue "..\..\..\..\..\..\..\Program Files\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=getsockname /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_82361.dir\Debug\\" /Fd"cmTC_82361.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue "..\..\..\..\..\..\..\Program Files\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+  
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_82361.dir\Debug\cmTC_82361.exe.embed.manifest.res" cmTC_82361.dir\Debug\cmTC_82361_manifest.rc 
+Link:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\Debug\cmTC_82361.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib socket.lib /MANIFEST /ManifestFile:"cmTC_82361.dir\Debug\cmTC_82361.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/CMakeFiles/CMakeTmp/Debug/cmTC_82361.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/CMakeFiles/CMakeTmp/Debug/cmTC_82361.lib" /MACHINE:X86 cmTC_82361.dir\Debug\cmTC_82361.exe.embed.manifest.res
+  cmTC_82361.dir\Debug\CheckFunctionExists.obj  /machine:X86 /debug 
+LINK : fatal error LNK1104: cannot open file 'socket.lib' [C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_82361.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_82361.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_82361.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy Link) -> 
+  LINK : fatal error LNK1104: cannot open file 'socket.lib' [C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_82361.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 1
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:00.37
+
+
+Determining if getsockname accepts socklen_t type  failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeTmp/SocklenT/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_77b56.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:04:43.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_77b56.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_77b56.dir\Debug\cmTC_77b56.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_77b56.dir\Debug\\" /Fd"cmTC_77b56.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_77b56.dir\Debug\\" /Fd"cmTC_77b56.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  
+  igtlTestSocklenT.cxx
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy ClCompile) -> 
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_77b56.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 5
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:00.35
+
+
+Determining if the SO_REUSEADDR exist failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_a8759.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:04:44.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_a8759.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_a8759.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_a8759.dir\Debug\cmTC_a8759.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a8759.dir\Debug\\" /Fd"cmTC_a8759.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckSymbolExists.c
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a8759.dir\Debug\\" /Fd"cmTC_a8759.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckSymbolExists.c
+  
+  CheckSymbolExists.c
+CheckSymbolExists.c(3): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory [C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_a8759.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_a8759.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_a8759.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy ClCompile) -> 
+  CheckSymbolExists.c(3): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory [C:\Users\student\Desktop\pwplab2\build\CMakeFiles\CMakeTmp\cmTC_a8759.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 1
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:00.28
+
+File C:/Users/student/Desktop/pwplab2/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+#include <sys/socket.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef SO_REUSEADDR
+  return ((int*)(&SO_REUSEADDR))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if getsockname accepts socklen_t type  failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeTmp/SocklenT/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_0dc5e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:05:36.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_0dc5e.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_0dc5e.dir\Debug\cmTC_0dc5e.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_0dc5e.dir\Debug\\" /Fd"cmTC_0dc5e.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_0dc5e.dir\Debug\\" /Fd"cmTC_0dc5e.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  
+  igtlTestSocklenT.cxx
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy ClCompile) -> 
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_0dc5e.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 5
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:00.25
+
+
+Determining if getsockname accepts socklen_t type  failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeTmp/SocklenT/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_e2118.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:28:00.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_e2118.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_e2118.dir\Debug\cmTC_e2118.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_e2118.dir\Debug\\" /Fd"cmTC_e2118.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_e2118.dir\Debug\\" /Fd"cmTC_e2118.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  
+  igtlTestSocklenT.cxx
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy ClCompile) -> 
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_e2118.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 5
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:01.12
+
+
+Determining if getsockname accepts socklen_t type  failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeTmp/SocklenT/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_83343.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:28:51.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_83343.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_83343.dir\Debug\cmTC_83343.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_83343.dir\Debug\\" /Fd"cmTC_83343.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_83343.dir\Debug\\" /Fd"cmTC_83343.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  
+  igtlTestSocklenT.cxx
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy ClCompile) -> 
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_83343.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 5
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:00.26
+
+
+Determining if getsockname accepts socklen_t type  failed with the following output:
+Change Dir: C:/Users/student/Desktop/pwplab2/build/CMakeTmp/SocklenT/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_399b1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine w wersji 4.6.1085.0
+[Microsoft .NET Framework w wersji 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Wszelkie prawa zastrze¾one.
+
+Kompilacja rozpocz©ˆa si© 2017-03-13 11:31:38.
+Projekt "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj" w w©«le 1 (domy˜lne elementy docelowe).
+PrepareForBuild:
+  Tworzenie katalogu "cmTC_399b1.dir\Debug\".
+  Tworzenie katalogu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Trwa tworzenie "cmTC_399b1.dir\Debug\cmTC_399b1.unsuccessfulbuild", poniewa¾ okre˜lono "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_399b1.dir\Debug\\" /Fd"cmTC_399b1.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_399b1.dir\Debug\\" /Fd"cmTC_399b1.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:queue ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx
+  
+  igtlTestSocklenT.cxx
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+Kompilowanie projektu "C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj" wykonane (domy˜lne elementy docelowe) - NIEPOWODZENIE.
+
+Kompilacja NIE POWIODA SI¨.
+
+"C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj" (domy˜lny element docelowy) (1)->
+(element docelowy ClCompile) -> 
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C2059: syntax error : ')' [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2065: 'socklen_t' : undeclared identifier [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(12): error C2070: ''unknown-type'': illegal sizeof operand [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+  ..\..\..\..\..\OpenIGTLink\CMake\igtlTestSocklenT.cxx(11): error C3861: 'getsockname': identifier not found [C:\Users\student\Desktop\pwplab2\build\CMakeTmp\SocklenT\CMakeFiles\CMakeTmp\cmTC_399b1.vcxproj]
+
+    Ostrze¾enia: 0
+    Liczba bˆ©d¢w: 5
+
+Czas, kt¢ry upˆyn¥ˆ: 00:00:00.26
+
+

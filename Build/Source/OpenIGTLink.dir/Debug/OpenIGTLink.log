@@ -1,0 +1,144 @@
+﻿Build started 2017-03-13 11:08:03.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Source\OpenIGTLink.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "OpenIGTLink.dir\Debug\OpenIGTLink.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Source/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Source\CMakeFiles\generate.stamp is up-to-date.
+       MakeDirsForCl:
+         Creating directory "C:\Users\student\Desktop\pwplab2\build\Source\Debug".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /MP /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTCu /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"OpenIGTLink.dir\Debug\\" /Fd"OpenIGTLink.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\OpenIGTLink\Source\igtlutil\igtl_header.c ..\..\OpenIGTLink\Source\igtlutil\igtl_image.c ..\..\OpenIGTLink\Source\igtlutil\igtl_transform.c ..\..\OpenIGTLink\Source\igtlutil\igtl_status.c ..\..\OpenIGTLink\Source\igtlutil\igtl_util.c ..\..\OpenIGTLink\Source\igtlutil\igtl_position.c ..\..\OpenIGTLink\Source\igtlutil\igtl_capability.c ..\..\OpenIGTLink\Source\igtlutil\igtl_colortable.c ..\..\OpenIGTLink\Source\igtlutil\igtl_imgmeta.c ..\..\OpenIGTLink\Source\igtlutil\igtl_lbmeta.c ..\..\OpenIGTLink\Source\igtlutil\igtl_point.c ..\..\OpenIGTLink\Source\igtlutil\igtl_tdata.c ..\..\OpenIGTLink\Source\igtlutil\igtl_qtdata.c ..\..\OpenIGTLink\Source\igtlutil\igtl_trajectory.c ..\..\OpenIGTLink\Source\igtlutil\igtl_unit.c ..\..\OpenIGTLink\Source\igtlutil\igtl_sensor.c ..\..\OpenIGTLink\Source\igtlutil\igtl_string.c ..\..\OpenIGTLink\Source\igtlutil\igtl_ndarray.c ..\..\OpenIGTLink\Source\igtlutil\igtl_bind.c ..\..\OpenIGTLink\Source\igtlutil\igtl_qtrans.c ..\..\OpenIGTLink\Source\igtlutil\igtl_polydata.c ..\..\OpenIGTLink\Source\igtlutil\igtl_command.c ..\..\OpenIGTLink\Source\igtlutil\igtl_query.c
+         igtl_header.c
+         igtl_image.c
+         igtl_transform.c
+         igtl_status.c
+         igtl_util.c
+         igtl_position.c
+         igtl_capability.c
+         igtl_colortable.c
+         igtl_imgmeta.c
+         igtl_lbmeta.c
+         igtl_point.c
+         igtl_tdata.c
+         igtl_qtdata.c
+         igtl_trajectory.c
+         igtl_unit.c
+         igtl_sensor.c
+         igtl_string.c
+         igtl_ndarray.c
+         igtl_bind.c
+         igtl_qtrans.c
+         igtl_polydata.c
+         igtl_command.c
+         igtl_query.c
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /MP /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTCu /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"OpenIGTLink.dir\Debug\\" /Fd"OpenIGTLink.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\OpenIGTLink\Source\igtlClientSocket.cxx ..\..\OpenIGTLink\Source\igtlCapabilityMessage.cxx ..\..\OpenIGTLink\Source\igtlConditionVariable.cxx ..\..\OpenIGTLink\Source\igtlFastMutexLock.cxx ..\..\OpenIGTLink\Source\igtlImageMessage.cxx ..\..\OpenIGTLink\Source\igtlImageMessage2.cxx ..\..\OpenIGTLink\Source\igtlLightObject.cxx ..\..\OpenIGTLink\Source\igtlMath.cxx ..\..\OpenIGTLink\Source\igtlMessageBase.cxx ..\..\OpenIGTLink\Source\igtlMessageFactory.cxx ..\..\OpenIGTLink\Source\igtlMultiThreader.cxx ..\..\OpenIGTLink\Source\igtlMutexLock.cxx ..\..\OpenIGTLink\Source\igtlOSUtil.cxx ..\..\OpenIGTLink\Source\igtlObject.cxx ..\..\OpenIGTLink\Source\igtlObjectFactoryBase.cxx ..\..\OpenIGTLink\Source\igtlPositionMessage.cxx ..\..\OpenIGTLink\Source\igtlServerSocket.cxx ..\..\OpenIGTLink\Source\igtlSessionManager.cxx ..\..\OpenIGTLink\Source\igtlSimpleFastMutexLock.cxx ..\..\OpenIGTLink\Source\igtlSocket.cxx ..\..\OpenIGTLink\Source\igtlStatusMessage.cxx ..\..\OpenIGTLink\Source\igtlTimeStamp.cxx ..\..\OpenIGTLink\Source\igtlTransformMessage.cxx ..\..\OpenIGTLink\Source\igtlColorTableMessage.cxx ..\..\OpenIGTLink\Source\igtlImageMetaMessage.cxx ..\..\OpenIGTLink\Source\igtlLabelMetaMessage.cxx ..\..\OpenIGTLink\Source\igtlPointMessage.cxx ..\..\OpenIGTLink\Source\igtlTrackingDataMessage.cxx ..\..\OpenIGTLink\Source\igtlPolyDataMessage.cxx ..\..\OpenIGTLink\Source\igtlQuaternionTrackingDataMessage.cxx ..\..\OpenIGTLink\Source\igtlTrajectoryMessage.cxx ..\..\OpenIGTLink\Source\igtlStringMessage.cxx ..\..\OpenIGTLink\Source\igtlUnit.cxx ..\..\OpenIGTLink\Source\igtlSensorMessage.cxx ..\..\OpenIGTLink\Source\igtlBindMessage.cxx ..\..\OpenIGTLink\Source\igtlNDArrayMessage.cxx ..\..\OpenIGTLink\Source\igtlCommandMessage.cxx ..\..\OpenIGTLink\Source\igtlQueryMessage.cxx
+         igtlClientSocket.cxx
+         igtlCapabilityMessage.cxx
+         igtlConditionVariable.cxx
+         igtlFastMutexLock.cxx
+         igtlImageMessage.cxx
+         igtlImageMessage2.cxx
+         igtlLightObject.cxx
+         igtlMath.cxx
+         igtlMessageBase.cxx
+         igtlMessageFactory.cxx
+         igtlMultiThreader.cxx
+         igtlMutexLock.cxx
+         igtlOSUtil.cxx
+         igtlObject.cxx
+         igtlObjectFactoryBase.cxx
+         igtlPositionMessage.cxx
+         igtlServerSocket.cxx
+         igtlSessionManager.cxx
+         igtlSimpleFastMutexLock.cxx
+         igtlSocket.cxx
+         igtlStatusMessage.cxx
+         igtlTimeStamp.cxx
+         igtlTransformMessage.cxx
+         igtlColorTableMessage.cxx
+         igtlImageMetaMessage.cxx
+         igtlLabelMetaMessage.cxx
+         igtlPointMessage.cxx
+         igtlTrackingDataMessage.cxx
+         igtlPolyDataMessage.cxx
+         igtlQuaternionTrackingDataMessage.cxx
+         igtlTrajectoryMessage.cxx
+         igtlStringMessage.cxx
+         igtlUnit.cxx
+         igtlSensorMessage.cxx
+         igtlBindMessage.cxx
+         igtlNDArrayMessage.cxx
+         igtlCommandMessage.cxx
+         igtlQueryMessage.cxx
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\OpenIGTLink.lib" /NOLOGO OpenIGTLink.dir\Debug\igtl_header.obj
+         OpenIGTLink.dir\Debug\igtl_image.obj
+         OpenIGTLink.dir\Debug\igtl_transform.obj
+         OpenIGTLink.dir\Debug\igtl_status.obj
+         OpenIGTLink.dir\Debug\igtl_util.obj
+         OpenIGTLink.dir\Debug\igtl_position.obj
+         OpenIGTLink.dir\Debug\igtl_capability.obj
+         OpenIGTLink.dir\Debug\igtlClientSocket.obj
+         OpenIGTLink.dir\Debug\igtlCapabilityMessage.obj
+         OpenIGTLink.dir\Debug\igtlConditionVariable.obj
+         OpenIGTLink.dir\Debug\igtlFastMutexLock.obj
+         OpenIGTLink.dir\Debug\igtlImageMessage.obj
+         OpenIGTLink.dir\Debug\igtlImageMessage2.obj
+         OpenIGTLink.dir\Debug\igtlLightObject.obj
+         OpenIGTLink.dir\Debug\igtlMath.obj
+         OpenIGTLink.dir\Debug\igtlMessageBase.obj
+         OpenIGTLink.dir\Debug\igtlMessageFactory.obj
+         OpenIGTLink.dir\Debug\igtlMultiThreader.obj
+         OpenIGTLink.dir\Debug\igtlMutexLock.obj
+         OpenIGTLink.dir\Debug\igtlOSUtil.obj
+         OpenIGTLink.dir\Debug\igtlObject.obj
+         OpenIGTLink.dir\Debug\igtlObjectFactoryBase.obj
+         OpenIGTLink.dir\Debug\igtlPositionMessage.obj
+         OpenIGTLink.dir\Debug\igtlServerSocket.obj
+         OpenIGTLink.dir\Debug\igtlSessionManager.obj
+         OpenIGTLink.dir\Debug\igtlSimpleFastMutexLock.obj
+         OpenIGTLink.dir\Debug\igtlSocket.obj
+         OpenIGTLink.dir\Debug\igtlStatusMessage.obj
+         OpenIGTLink.dir\Debug\igtlTimeStamp.obj
+         OpenIGTLink.dir\Debug\igtlTransformMessage.obj
+         OpenIGTLink.dir\Debug\igtl_colortable.obj
+         OpenIGTLink.dir\Debug\igtl_imgmeta.obj
+         OpenIGTLink.dir\Debug\igtl_lbmeta.obj
+         OpenIGTLink.dir\Debug\igtl_point.obj
+         OpenIGTLink.dir\Debug\igtl_tdata.obj
+         OpenIGTLink.dir\Debug\igtl_qtdata.obj
+         OpenIGTLink.dir\Debug\igtl_trajectory.obj
+         OpenIGTLink.dir\Debug\igtl_unit.obj
+         OpenIGTLink.dir\Debug\igtl_sensor.obj
+         OpenIGTLink.dir\Debug\igtl_string.obj
+         OpenIGTLink.dir\Debug\igtl_ndarray.obj
+         OpenIGTLink.dir\Debug\igtl_bind.obj
+         OpenIGTLink.dir\Debug\igtl_qtrans.obj
+         OpenIGTLink.dir\Debug\igtl_polydata.obj
+         OpenIGTLink.dir\Debug\igtlColorTableMessage.obj
+         OpenIGTLink.dir\Debug\igtlImageMetaMessage.obj
+         OpenIGTLink.dir\Debug\igtlLabelMetaMessage.obj
+         OpenIGTLink.dir\Debug\igtlPointMessage.obj
+         OpenIGTLink.dir\Debug\igtlTrackingDataMessage.obj
+         OpenIGTLink.dir\Debug\igtlPolyDataMessage.obj
+         OpenIGTLink.dir\Debug\igtlQuaternionTrackingDataMessage.obj
+         OpenIGTLink.dir\Debug\igtlTrajectoryMessage.obj
+         OpenIGTLink.dir\Debug\igtlStringMessage.obj
+         OpenIGTLink.dir\Debug\igtlUnit.obj
+         OpenIGTLink.dir\Debug\igtlSensorMessage.obj
+         OpenIGTLink.dir\Debug\igtlBindMessage.obj
+         OpenIGTLink.dir\Debug\igtlNDArrayMessage.obj
+         OpenIGTLink.dir\Debug\igtlCommandMessage.obj
+         OpenIGTLink.dir\Debug\igtlQueryMessage.obj
+         OpenIGTLink.dir\Debug\igtl_command.obj
+         OpenIGTLink.dir\Debug\igtl_query.obj  /machine:X86 
+         OpenIGTLink.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\OpenIGTLink.lib
+       FinalizeBuildStatus:
+         Deleting file "OpenIGTLink.dir\Debug\OpenIGTLink.unsuccessfulbuild".
+         Touching "OpenIGTLink.dir\Debug\OpenIGTLink.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Source\OpenIGTLink.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:24.03

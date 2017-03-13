@@ -1,0 +1,59 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/googletest"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/7475ebe11f82ad3875878fc86298649f/googletest.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/a4c6ec908b4975caa03901ed99a842c7/googletest-complete.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-install.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-mkdir.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-download.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-update.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-build.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/c5c9f6a404832849b8875727d5d7151d/googletest-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "googletest" ],
+		"name" : "googletest"
+	}
+}

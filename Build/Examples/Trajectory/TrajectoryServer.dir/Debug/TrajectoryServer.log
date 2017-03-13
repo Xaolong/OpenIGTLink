@@ -1,0 +1,34 @@
+﻿Build started 2017-03-13 11:09:39.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Examples\Trajectory\TrajectoryServer.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "TrajectoryServer.dir\Debug\TrajectoryServer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Examples/Trajectory/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Examples\Trajectory\CMakeFiles\generate.stamp is up-to-date.
+       MakeDirsForCl:
+         Creating directory "C:\Users\student\Desktop\pwplab2\build\Examples\Trajectory\Debug".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"TrajectoryServer.dir\Debug\\" /Fd"TrajectoryServer.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\OpenIGTLink\Examples\Trajectory\TrajectoryServer.cxx
+         TrajectoryServer.cxx
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"TrajectoryServer.dir\Debug\TrajectoryServer.exe.embed.manifest.res" TrajectoryServer.dir\Debug\TrajectoryServer_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrajectoryServer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"TrajectoryServer.dir\Debug\TrajectoryServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.lib" /MACHINE:X86 TrajectoryServer.dir\Debug\TrajectoryServer.exe.embed.manifest.res
+         TrajectoryServer.dir\Debug\TrajectoryServer.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"TrajectoryServer.dir\Debug\TrajectoryServer.exe.embed.manifest" /manifest TrajectoryServer.dir\Debug\TrajectoryServer.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"TrajectoryServer.dir\Debug\TrajectoryServer.exe.embed.manifest.res" TrajectoryServer.dir\Debug\TrajectoryServer_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrajectoryServer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"TrajectoryServer.dir\Debug\TrajectoryServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.lib" /MACHINE:X86 TrajectoryServer.dir\Debug\TrajectoryServer.exe.embed.manifest.res
+         TrajectoryServer.dir\Debug\TrajectoryServer.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrajectoryServer.exp
+         TrajectoryServer.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrajectoryServer.exe
+       FinalizeBuildStatus:
+         Deleting file "TrajectoryServer.dir\Debug\TrajectoryServer.unsuccessfulbuild".
+         Touching "TrajectoryServer.dir\Debug\TrajectoryServer.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Examples\Trajectory\TrajectoryServer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.11

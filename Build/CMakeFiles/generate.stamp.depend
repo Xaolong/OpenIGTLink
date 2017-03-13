@@ -1,0 +1,56 @@
+# CMake generation dependency list for this directory.
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/CMakeLists.txt
+C:/Users/student/Desktop/pwplab2/build/CMakeFiles/3.4.3/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/student/Desktop/pwplab2/build/CMakeFiles/3.4.3/CMakeCCompiler.cmake
+C:/Users/student/Desktop/pwplab2/build/CMakeFiles/3.4.3/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+C:/Users/student/Desktop/pwplab2/build/CMakeFiles/3.4.3/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeParseArguments.cmake
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/CMake/OpenIGTLinkCMakeTests.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckFunctionExists.cmake
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/CMake/igtlTestSocklenT.cxx
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/OpenIGTLinkConfigPlatform.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CheckIncludeFileCXX.cmake
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/igtlConfigure.h.in
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/igtl_typeconfig.h.in
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/igtlTypeConfig.h.in
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/UseOpenIGTLink.cmake.in
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/GenerateOpenIGTLinkConfig.cmake
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/OpenIGTLinkConfig.cmake.in
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/OpenIGTLinkConfig.cmake.in
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeExportBuildSettings.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeBuildSettings.cmake.in
+C:/Program Files/CMake/share/cmake-3.4/Modules/Dart.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/FindDart.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CTestUseLaunchers.cmake
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/DartConfig.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/DartConfiguration.tcl.in

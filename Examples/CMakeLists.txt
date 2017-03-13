@@ -27,6 +27,8 @@ if (${OpenIGTLink_PROTOCOL_VERSION} GREATER 1)
     Capability
     Trajectory
     SessionManager
+	NowyKlient
+	NowySerwer	
     )
 endif (${OpenIGTLink_PROTOCOL_VERSION} GREATER 1)
 

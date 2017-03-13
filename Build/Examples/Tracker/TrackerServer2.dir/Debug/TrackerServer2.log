@@ -1,0 +1,34 @@
+﻿Build started 2017-03-13 11:09:47.
+     1>Project "C:\Users\student\Desktop\pwplab2\build\Examples\Tracker\TrackerServer2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "TrackerServer2.dir\Debug\TrackerServer2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/Desktop/pwplab2/OpenIGTLink/Examples/Tracker/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\Desktop\pwplab2\build\Examples\Tracker\CMakeFiles\generate.stamp is up-to-date.
+       MakeDirsForCl:
+         Creating directory "C:\Users\student\Desktop\pwplab2\build\Examples\Tracker\Debug".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source\igtlutil /IC:\Users\student\Desktop\pwplab2\OpenIGTLink\Source /IC:\Users\student\Desktop\pwplab2\build /IC:\Users\student\Desktop\pwplab2\build\Source /IC:\Users\student\Desktop\pwplab2\build\Source\igtlutil /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"TrackerServer2.dir\Debug\\" /Fd"TrackerServer2.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\OpenIGTLink\Examples\Tracker\TrackerServer2.cxx
+         TrackerServer2.cxx
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"TrackerServer2.dir\Debug\TrackerServer2.exe.embed.manifest.res" TrackerServer2.dir\Debug\TrackerServer2_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrackerServer2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"TrackerServer2.dir\Debug\TrackerServer2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.lib" /MACHINE:X86 TrackerServer2.dir\Debug\TrackerServer2.exe.embed.manifest.res
+         TrackerServer2.dir\Debug\TrackerServer2.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"TrackerServer2.dir\Debug\TrackerServer2.exe.embed.manifest" /manifest TrackerServer2.dir\Debug\TrackerServer2.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"TrackerServer2.dir\Debug\TrackerServer2.exe.embed.manifest.res" TrackerServer2.dir\Debug\TrackerServer2_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrackerServer2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\bin\Debug\OpenIGTLink.lib ws2_32.lib wsock32.lib /MANIFEST /ManifestFile:"TrackerServer2.dir\Debug\TrackerServer2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.lib" /MACHINE:X86 TrackerServer2.dir\Debug\TrackerServer2.exe.embed.manifest.res
+         TrackerServer2.dir\Debug\TrackerServer2.obj  /machine:X86 /debug 
+            Creating library C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.lib and object C:/Users/student/Desktop/pwplab2/build/bin/Debug/TrackerServer2.exp
+         TrackerServer2.vcxproj -> C:\Users\student\Desktop\pwplab2\build\bin\Debug\TrackerServer2.exe
+       FinalizeBuildStatus:
+         Deleting file "TrackerServer2.dir\Debug\TrackerServer2.unsuccessfulbuild".
+         Touching "TrackerServer2.dir\Debug\TrackerServer2.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\pwplab2\build\Examples\Tracker\TrackerServer2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.20

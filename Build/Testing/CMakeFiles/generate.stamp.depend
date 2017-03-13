@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/Testing/CMakeLists.txt
+C:/Users/student/Desktop/pwplab2/build/OpenIGTLinkConfig.cmake
+C:/Users/student/Desktop/pwplab2/build/OpenIGTLinkTargets.cmake
+C:/Users/student/Desktop/pwplab2/build/UseOpenIGTLink.cmake
+C:/Program Files/CMake/share/cmake-3.4/Modules/CMakeImportBuildSettings.cmake
+C:/Users/student/Desktop/pwplab2/build/OpenIGTLinkTargets.cmake
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/Testing/igtlTestConfig.h.in
+C:/Users/student/Desktop/pwplab2/OpenIGTLink/Testing/CMakeLists.txt.in

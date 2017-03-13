@@ -1,0 +1,59 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/googlemock"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/7475ebe11f82ad3875878fc86298649f/googlemock.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/a4c6ec908b4975caa03901ed99a842c7/googlemock-complete.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-install.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-mkdir.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-download.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-update.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-build.rule"
+		},
+		
+		{
+			"file" : "C:/Users/student/Desktop/pwplab2/build/Testing/googletest-download/CMakeFiles/e70cdb3e38b51b955ead9f5f815d134b/googlemock-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "googlemock" ],
+		"name" : "googlemock"
+	}
+}
